@@ -1,5 +1,5 @@
-Instruções para os Alunos
-Compreender a Estrutura:
+##Instruções para os Alunos
+### Compreender a Estrutura:
 
 Examine o código HTML e CSS fornecidos. Observe como a estrutura da página é montada e quais estilos foram aplicados.
 Aplicar Media Queries:
